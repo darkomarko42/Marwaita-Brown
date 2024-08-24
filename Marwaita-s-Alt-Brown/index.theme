@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Marwaita-s-Alt-Brown
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Marwaita-s-Alt-Brown
+MetacityTheme=Marwaita-s-Alt-Brown
+IconTheme=Marwaita
+CursorTheme=Marwaita
+CursorSize=24
